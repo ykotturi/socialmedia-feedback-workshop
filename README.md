@@ -71,7 +71,7 @@ If there are other barriers that prohibit your attendance, please let us know! I
 ## Organizers
 
 
-**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at <a href="etsy.com">Etsy</a>, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) connect with peers online to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
+**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at <a href="etsy.com">Etsy</a>, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) connect with peers online to navigate the many uncertainties that arise in digitally-mediated work. With <a href="https://www.forge.community/">Community Forge</a>, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
 
 **<a href="http://allieblaising.com/">Allie Blaising</a>** is Communication Studies and Data Science undergraduate at Cal Poly, San Luis Obispo. She studies how technology increasingly mediates work and uses her social science background to design technologies. Over the last two years, she studied the tactics and tools online freelancers use to navigate their work, as well as the unique challenges in these new form of work. She is also a freelance photographer and Vice President of Outreach of Women in Business at Cal Poly, where she hosts professional and personal development workshops with small business owners and local entrepreneurs. 
 
@@ -83,11 +83,11 @@ If there are other barriers that prohibit your attendance, please let us know! I
 
 ## Advisors
 
-**<a href="http://www.eringatz.com/">Erin Gatz</a>** is the CEO and co-founder of Prototype PGH. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network.
+**<a href="http://www.eringatz.com/">Erin Gatz</a>** is the CEO and co-founder of <a href="https://prototypepgh.com/">Prototype PGH</a>, a feminist makerspace in Pittsburgh PA. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network.
 
 **<a href="">Caleb Ashcraft</a>** is the supervisor of MAC Makerspace, located in Homewood, Pittsburgh PA.
 
-**<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
+**<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better.
 
 **<a href="https://www.sarahfox.info/">Sarah E. Fox</a>** is a Postdoctoral Scholar at the University of California, San Diego in the Department of Communication and The Design Lab. Her research focuses on how technological artifacts challenge or propagate social exclusions, by examining existing systems and building alternatives.
 
