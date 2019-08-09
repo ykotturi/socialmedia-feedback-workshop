@@ -69,11 +69,11 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 
 **<a href="">Erin Gatz</a>**
 
-**<a href="">Sarah E. Fox</a>**
-
 **<a href="">Caleb </a>**
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
+
+**<a href="">Sarah E. Fox</a>**
 
 <a href="#top">Back to top</a> 
 <div id="question"></div>
