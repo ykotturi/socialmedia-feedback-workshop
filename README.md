@@ -3,46 +3,43 @@
 
 <a href="#info">Workshop Overview</a>  
 
-
-
-
-
 <a href="#organizers">Organizers</a> 
 
 <a href="#advisors">Advisors</a> 
 
 <a href="#questions">Questions?</a>  
 
-## Workshop overview
-
-While the shift to on-demand labor may foster greater control over one’s employment in some ways, it has removed much of the benefits that come with consistently working in shared physical spaces. Working in physical spaces allow opportunities for social support, earning, long-term growth, and stability. The goal of this workshop is to facilitate a discussion around how physical spaces and online technologies influence each other in on-demand work (e.g. ridesharing, crowd work, freelancing, side hustles). We plan to invite a diversity of stakeholders, including grassroots organizers who can represent and voice the concerns of their respective worker communities, researchers studying these topics, and designers of on-demand work platforms. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community and the general public.  
-
-**When:**  
-Sunday, August 18th, 2019
-
-**Where:**  
-MAC Makerspace
 
 <div id="info"></div>
 
-## Participatory Design
-The outcomes of these activities will contribute to a collective report on challenges and opportunities around the the de-placing of on-demand work.
+## Workshop overview
+ 
+
+**When:**  
+Sunday, August 18th, 2019 10a-12p
+Thursday, August 22nd, 2019 5p-7p
+
+**Where:**  
+MAC Makerspace
+7800 Susquehanna St
+Pittsburgh, PA
+15208
 
 
-## RSVP
+## How to participate
+1. RSVP here:
+2. 
+
+
 
 
 **Selection and Attendance Criteria**
 Submissions will be reviewed by the organizers and accepted based on the relevance and potential to contribute to the workshop. Our workshop will accommodate up to 20 participants. At least one author of each accepted paper must attend the workshop. Please note that workshop attendees are required to register for the workshop by by paying an additional workshop fee on top of the conference registration fee. Prior to the workshop, participants will be requested to read all accepted position papers.
 
 **How to Submit**
-Submissions and questions should be directed to futureofworkplaces@gmail.com by the submission deadline. Please submit your position paper in PDF format by September 23, 2019, 5pm PDT.
 
-**Archival Copies**
-Submitted abstracts will be archived on the workshop’s website, but will not appear in the CSCW proceedings. Authors will maintain all copyright over their work.
 
-**Remote Attendance**
-We will consider applications for remote attendance if you cannot attend CSCW in person due to mobility impairments, chronic health issues, travel limitations, etc. If your application is for remote attendance, please indicate this in the submission abstract and email. For general questions about telepresence opportunities at CSCW 2019, please email tele2019@cscw.acm.org.
+
 
 <a href="#top">Back to top</a> 
 <div id ="participants"></div>
@@ -51,6 +48,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 
 
 <div id ="organizers"></div>
+
 ## Organizers
 
 
