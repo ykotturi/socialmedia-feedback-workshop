@@ -67,7 +67,7 @@ Please note this workshop is a research study hosted by Carnegie-Mellon Universi
 ## Child care will be provided
 We will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
 
-If there are other barriers that prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
+If there are other barriers that may prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
 
 <a href="#top">Back to top</a> 
 
