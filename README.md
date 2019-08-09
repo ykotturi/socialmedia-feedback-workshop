@@ -1,6 +1,5 @@
 <div id="top"></div> 
 
-
 <a href="#info">Workshop overview</a>  
 
 <a href="#date">Workshop date, time and location</a>  
@@ -20,21 +19,18 @@
 
 <div id="info"></div>
 
-## Workshop overview and goals
+## Workshop overview
 
-This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from your social media and ultimately grow your small business.
+This workshop is for crafters, makers, or product designers, for how to get effective feedback from your social media and ultimately grow your small business.
 
 This workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), however, we welcome those with any background (self-taught, formal training, no training). 
 
-Pariticipants will be asked to reflect on and share their unique experiences as crafter, designers, makers. Workshop activities will involve a series of individual reflections and group-based worked. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems.
-
-### Bring other creators!
-
-You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
-
+Workshop activities will involve a series of individual reflections and group-based worked, where pariticipants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems.
 
 
 **When:**  
+There are two offerings of this workshop. On the RSVP form, indicate your preference.
+
 Sunday, August 18th, 2019 10:00a-12:30p  
 
 Thursday, August 22nd, 2019 6:00p-8:30p
@@ -45,25 +41,27 @@ MAC Makerspace
 Pittsburgh, PA  
 15208  
 
-**Sustinance:**  
 Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
 
+### Bring other creators!
 
+You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
+
+<a href="#top">Back to top</a> 
 <div id="study"></div>
 
 ## This is a research study
 
 Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. You will be compensated $25 for your participation. 
 
-<div id="study"></div>
-
-
+<div id="child"></div>
 
 ## Child care will be provided
-If needed, we will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
+We will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
 
 If there are other barriers that prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
 
+<a href="#top">Back to top</a> 
 <div id ="participants"></div>
 
 ## How to attend
@@ -72,7 +70,6 @@ If there are other barriers that prohibit your attendance, please let us know! I
 
 
 <a href="#top">Back to top</a> 
-
 <div id ="organizers"></div>
 
 ## Organizers
@@ -86,6 +83,7 @@ If there are other barriers that prohibit your attendance, please let us know! I
 
 **<a href="https://sarakingsley.github.io/">Sara Kingsley</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Her primary research evaluates competition in online markets and the technology industry. She has worked for the Chief Economist of Microsoft corporation, President Barack Obama at the U.S. Department of Labor, and the U.S. Senate Committee on Health, Education, Labor and Pensions (HELP).
 
+<a href="#top">Back to top</a> 
 <div id ="advisors"></div>
 
 ## Advisors
