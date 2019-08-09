@@ -28,7 +28,7 @@ Pariticipants will be asked to reflect on and share their unique experiences as 
 
 ### Bring other creators!
 
-You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
+You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
 
 Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
 
@@ -53,7 +53,7 @@ Pittsburgh, PA
 
 
 ## Child care will be provided
-If needed, we will have a CPR-trainder care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
+If needed, we will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
 
 If there are other barriers that prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
 
@@ -64,13 +64,7 @@ If there are other barriers that prohibit your attendance, please let us know! I
 2. Look for a confirmation e-mail with important workshop details 
 
 
-
-
 <a href="#top">Back to top</a> 
-
-
-
-
 
 <div id ="organizers"></div>
 
@@ -83,20 +77,19 @@ If there are other barriers that prohibit your attendance, please let us know! I
 
 **<a href="">Jenny Yu</a>**
 
-**<a href="https://sarakingsley.github.io/">Sara Kingsley</a>** is a PhD student 
-
+**<a href="https://sarakingsley.github.io/">Sara Kingsley</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Her primary research evaluates competition in online markets and the technology industry. She has worked for the Chief Economist of Microsoft corporation, President Barack Obama at the U.S. Department of Labor, and the U.S. Senate Committee on Health, Education, Labor and Pensions (HELP).
 
 <div id ="advisors"></div>
 
 ## Advisors
 
-**<a href="">Erin Gatz</a>**
+**<a href="http://www.eringatz.com/">Erin Gatz</a>** is the CEO and co-founder of Prototype PGH. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network.
 
-**<a href="">Caleb </a>**
+**<a href="">Caleb Ashcraft</a>** is the supervisor of MAC Makerspace, located in Homewood, Pittsburgh PA.
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
 
-**<a href="">Sarah E. Fox</a>**
+**<a href="https://www.sarahfox.info/">Sarah E. Fox</a>** is a Postdoctoral Scholar at the University of California, San Diego in the Department of Communication and The Design Lab. Her research focuses on how technological artifacts challenge or propagate social exclusions, by examining existing systems and building alternatives.
 
 <a href="#top">Back to top</a> 
 <div id="question"></div>
