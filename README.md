@@ -20,15 +20,15 @@
 
 ## Workshop overview and goals
 
-This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from your social media, and ultimately grow your small business.
+This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from your social media and ultimately grow your small business.
 
 This workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), however, we welcome those with any background (self-taught, formal training, no training). 
 
-Pariticipants will be asked to reflect on and share their unique experiences as crafter, designers, makers. Workshop activities will involve a series of individual reflections and group-based worked. Participants will be asked to beta-test software systems the researchers are building, and give preliminary feedback, as well as shape future direct
+Pariticipants will be asked to reflect on and share their unique experiences as crafter, designers, makers. Workshop activities will involve a series of individual reflections and group-based worked. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems.
 
+### Bring other creators!
 
-
-You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement in your day to day. There will a few exercises conducted with other workshop participants, If you do bring your peers, **be sure everyone RSVP's individually**
+You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
 
 Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
 
@@ -39,7 +39,6 @@ Coffee and snacks will be provided. If you have any food allergies, be sure to i
 Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. There will be audio and video recording during the workshop. You will be compensated $25 for your participation. 
 
 
- 
 
 **When:**  
 Sunday, August 18th, 2019 10:00a-12:30p  
@@ -61,8 +60,8 @@ If there are other barriers that prohibit your attendance, please let us know! I
 <div id ="participants"></div>
 
 ## How to participate
-1. RSVP here by Thursday, August 15th: 
-2. We will send you a confirmation e-mail with important workshop details 
+1. RSVP to reserve your spot here by Thursday, August 15th: 
+2. Look for a confirmation e-mail with important workshop details 
 
 
 
@@ -78,7 +77,7 @@ If there are other barriers that prohibit your attendance, please let us know! I
 ## Organizers
 
 
-**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at Etsy, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
+**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at <a href="etsy.com">Etsy</a>, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) connect with peers online to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
 
 **<a href="http://allieblaising.com/">Allie Blaising</a>**
 
