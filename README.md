@@ -18,13 +18,15 @@
 
 <div id="info"></div>
 
-## Workshop overview
+## Workshop overview and goals
 
-This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from their social media following. 
+This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from your social media, and ultimately grow your small business.
 
 This workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), however, we welcome those with any background (self-taught, formal training, no training). 
 
-Pariticipants will be asked to reflect on and share their unique experiences as crafter, designers, makers. Workshop activities will involve a series of individual reflections, group-based worked, and collaborative 
+Pariticipants will be asked to reflect on and share their unique experiences as crafter, designers, makers. Workshop activities will involve a series of individual reflections and group-based worked. Participants will be asked to beta-test software systems the researchers are building, and give preliminary feedback, as well as shape future direct
+
+
 
 You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement in your day to day. There will a few exercises conducted with other workshop participants, If you do bring your peers, **be sure everyone RSVP's individually**
 
