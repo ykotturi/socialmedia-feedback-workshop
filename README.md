@@ -54,7 +54,7 @@ Pittsburgh, PA
 ## Organizers
 
 
-**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
+**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at Etsy, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
 
 **<a href="http://allieblaising.com/">Allie Blaising</a>**
 
