@@ -1,15 +1,15 @@
 <div id="top"></div> 
 
 
-<a href="#info">Workshop Overview</a>  
+<a href="#info">Workshop overview</a>  
 
-<a href="#info">Workshop Date, Time and Location</a>  
+<a href="#date">Workshop date, time and location</a>  
 
 <a href="#study">This is a research study</a>  
 
-<a href="#participants">How to Attend</a>  
+<a href="#participants">How to attend</a>  
 
-<a href="#child">Child Care</a> 
+<a href="#child">Child care</a> 
 
 <a href="#organizers">Organizers</a> 
 
@@ -32,14 +32,6 @@ Pariticipants will be asked to reflect on and share their unique experiences as 
 
 You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
 
-Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
-
-<div id="study"></div>
-
-## This is a research study
-
-Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. You will be compensated $25 for your participation. 
-
 
 
 **When:**  
@@ -52,6 +44,19 @@ MAC Makerspace
 7800 Susquehanna St  
 Pittsburgh, PA  
 15208  
+
+**Sustinance:**  
+Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
+
+
+<div id="study"></div>
+
+## This is a research study
+
+Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. You will be compensated $25 for your participation. 
+
+<div id="study"></div>
+
 
 
 ## Child care will be provided
