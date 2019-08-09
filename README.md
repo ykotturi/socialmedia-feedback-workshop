@@ -2,7 +2,7 @@
 
 <a href="#info">Workshop overview</a>  
 
-<a href="#date">Workshop date, time and location</a>  
+<a href="#date">Workshop dates, times and location</a>  
 
 <a href="#study">This is a research study</a>  
 
@@ -26,7 +26,6 @@ This workshop is for crafters, makers, or product designers, for how to get effe
 This workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), however, we welcome those with any background (self-taught, formal training, no training). 
 
 Workshop activities will involve a series of individual reflections and group-based worked, where pariticipants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems.
-
 
 **When:**  
 There are two offerings of this workshop. On the RSVP form, indicate your preference.
@@ -54,14 +53,6 @@ You are welcome (and encouraged) to bring your peers and friends - other creator
 
 Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. You will be compensated $25 for your participation. 
 
-<div id="child"></div>
-
-## Child care will be provided
-We will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
-
-If there are other barriers that prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
-
-<a href="#top">Back to top</a> 
 <div id ="participants"></div>
 
 ## How to attend
@@ -70,6 +61,16 @@ If there are other barriers that prohibit your attendance, please let us know! I
 
 
 <a href="#top">Back to top</a> 
+
+<div id="child"></div>
+
+## Child care will be provided
+We will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
+
+If there are other barriers that prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
+
+<a href="#top">Back to top</a> 
+
 <div id ="organizers"></div>
 
 ## Organizers
