@@ -5,7 +5,7 @@
 
 <a href="#study">This is a research study</a>  
 
-<a href="#participants">How to Participate</a>  
+<a href="#participants">How to Attend</a>  
 
 <a href="#child">Child Care</a> 
 
@@ -36,7 +36,7 @@ Coffee and snacks will be provided. If you have any food allergies, be sure to i
 
 ## This is a research study
 
-Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. There will be audio and video recording during the workshop. You will be compensated $25 for your participation. 
+Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. You will be compensated $25 for your participation. 
 
 
 
@@ -59,7 +59,7 @@ If there are other barriers that prohibit your attendance, please let us know! I
 
 <div id ="participants"></div>
 
-## How to participate
+## How to attend
 1. RSVP to reserve your spot here by Thursday, August 15th: 
 2. Look for a confirmation e-mail with important workshop details 
 
