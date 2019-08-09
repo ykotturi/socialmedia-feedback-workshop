@@ -51,10 +51,25 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 ## Organizers
 
 
-**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.   
+**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. She builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at Etsy, she investigated how thousands of Etsy sellers (based in the U.S., U.K., and India) organically leverage their peers to navigate the many uncertainties that arise in digitally-mediated work. With Community Forge, a co-working space in Wilkinsburg, PA, she is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
+
+**<a href="http://allieblaising.com/">Allie Blaising</a>**
+
+**<a href="">Jenny Yu</a>**
+
+**<a href="https://sarakingsley.github.io/">Sara Kingsley</a>** is a PhD student 
+
+
+
+## Advisors
+
+**<a href="">Erin Gatz</a>**
+
+**<a href="">Sarah E. Fox</a>**
+
+**<a href="">Caleb </a>**
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better; typically, these systems use the large scale of participation to yield benefits that are otherwise not achievable. 
-
 
 <a href="#top">Back to top</a> 
 <div id="question"></div>
