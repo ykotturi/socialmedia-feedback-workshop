@@ -3,6 +3,8 @@
 
 <a href="#info">Workshop Overview</a>  
 
+<a href="#study">This is a research study</a>  
+
 <a href="#participants">How to Participate</a>  
 
 <a href="#child">Child Care</a> 
@@ -18,13 +20,21 @@
 
 ## Workshop overview
 
-This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from their social media following. While this workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), we welcome those with any background (self-taught, formal training, no training). 
+This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from their social media following. 
 
-Pariticipants will be asked to first reflect on and share their unique experiences as crafter, designers, makers. The workshop will involve a series of individual reflections, group-based worked, and collaborative 
+This workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), however, we welcome those with any background (self-taught, formal training, no training). 
+
+Pariticipants will be asked to reflect on and share their unique experiences as crafter, designers, makers. Workshop activities will involve a series of individual reflections, group-based worked, and collaborative 
+
+You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement in your day to day. There will a few exercises conducted with other workshop participants, If you do bring your peers, **be sure everyone RSVP's individually**
+
+Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
+
+<div id="study"></div>
 
 ## This is a research study
 
-Please note this workshop is a research study hosted by Carnegie-Mellon. At the beginning of the workshop, you will be presented with a consent form. There will be audio and video recording during the workshop. You will be compensated $25 for your participation. 
+Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. There will be audio and video recording during the workshop. You will be compensated $25 for your participation. 
 
 
  
@@ -44,11 +54,14 @@ Pittsburgh, PA
 ## Child care will be provided
 If needed, we will have a CPR-trainder care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
 
+If there are other barriers that prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
+
 <div id ="participants"></div>
 
 ## How to participate
 1. RSVP here by Thursday, August 15th: 
-2. We will send you a confirmation email with important workshop details 
+2. We will send you a confirmation e-mail with important workshop details 
+
 
 
 
