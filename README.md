@@ -3,6 +3,8 @@
 
 <a href="#info">Workshop Overview</a>  
 
+<a href="#info">Workshop Date, Time and Location</a>  
+
 <a href="#study">This is a research study</a>  
 
 <a href="#participants">How to Attend</a>  
