@@ -5,6 +5,8 @@
 
 <a href="#participants">How to Participate</a>  
 
+<a href="#child">Child Care</a> 
+
 <a href="#organizers">Organizers</a> 
 
 <a href="#advisors">Advisors</a> 
@@ -16,18 +18,21 @@
 
 ## Workshop overview
 
+This workshop is intended for crafters, makers, or product designers, for how to get effective feedback from their social media following. While this workshop is intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"), we welcome those with any background (self-taught, formal training, no training). 
+
+Pariticipants will be asked to first reflect on and share their unique experiences as crafter, designers, makers. The workshop will involve a series of individual reflections, group-based worked, and collaborative 
 
 ## This is a research study
 
-Please note this workshop is a research study hosted by Carnegie-Mellon. At the beginning of the workshop, you will be presented with a consent form. There will be audio and video recording. You will be compensated $20 for your participation. 
+Please note this workshop is a research study hosted by Carnegie-Mellon. At the beginning of the workshop, you will be presented with a consent form. There will be audio and video recording during the workshop. You will be compensated $25 for your participation. 
 
-## This is a research study
+
  
 
 **When:**  
-Sunday, August 18th, 2019 10a-12p  
+Sunday, August 18th, 2019 10:00a-12:30p  
 
-Thursday, August 22nd, 2019 5p-7p
+Thursday, August 22nd, 2019 6:00p-8:30p
 
 **Where:**  
 MAC Makerspace  
@@ -35,11 +40,15 @@ MAC Makerspace
 Pittsburgh, PA  
 15208  
 
+
+## Child care will be provided
+If needed, we will have a CPR-trainder care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
+
 <div id ="participants"></div>
 
 ## How to participate
-1. RSVP here:
-2. We will send you a confirmation email with important workshop details
+1. RSVP here by Thursday, August 15th: 
+2. We will send you a confirmation email with important workshop details 
 
 
 
@@ -80,6 +89,8 @@ Pittsburgh, PA
 
   
 ## Questions?
+
+If you have questions, e-mail Yasmine directly: ykotturi at cmu dot edu
   
 
   
