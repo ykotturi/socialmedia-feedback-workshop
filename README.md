@@ -9,6 +9,8 @@
 
 <a href="#organizers">Organizers</a> 
 
+<a href="#advisors">Advisors</a> 
+
 <a href="#questions">Questions?</a>  
 
 ## Workshop overview
@@ -48,6 +50,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 ## Participants
 
 
+<div id ="organizers"></div>
 ## Organizers
 
 
@@ -60,6 +63,7 @@ We will consider applications for remote attendance if you cannot attend CSCW in
 **<a href="https://sarakingsley.github.io/">Sara Kingsley</a>** is a PhD student 
 
 
+<div id ="advisors"></div>
 
 ## Advisors
 
