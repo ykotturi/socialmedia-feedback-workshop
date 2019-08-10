@@ -24,7 +24,7 @@
 This workshop is for **crafters, makers, and product designers**, for how to get effective feedback from your social media and ultimately grow your small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop pariticipants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
 
 ## How to attend
-1. RSVP to reserve your spot here by Thursday, August 15th: <a href="http://bit.do/pghworkshop-rsvp">bit.do/pghworkshop-rsvp</a>
+1. to reserve your spot here by Thursday, August 15th: <a href="http://bit.do/pghworkshop-rsvp">bit.do/pghworkshop-rsvp</a>
 2. Look for a confirmation e-mail with important workshop details 
 
 <a href="#top">Back to top</a> 
@@ -41,7 +41,7 @@ There are two offerings of this workshop:
 
 ### Thursday, August 22nd 6:00p-8:30p
 
-On the RSVP form, indicate your preference.
+On the RSVP form, indicate your preference: <a href="http://bit.do/pghworkshop-rsvp">http://bit.do/pghworkshop-rsvp</a>
 
 **Where:**  
 MAC Makerspace  
@@ -49,7 +49,7 @@ MAC Makerspace
 Pittsburgh, PA  
 15208  
 
-Coffee and snacks will be provided. **If you have any food allergies**, be sure to indicate so in the RSVP form.
+Coffee and snacks will be provided. **If you have any food allergies**, be sure to indicate so in the <a href="http://bit.do/pghworkshop-rsvp">RSVP form</a>.
 
 ### Bring other creators!
 
@@ -69,7 +69,7 @@ Please note this workshop is a research study hosted by Carnegie-Mellon Universi
 <div id="child"></div>
 
 ## Child care will be provided
-We will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the RSVP form, along with the number of children so that we provide adequate support.
+We will have a CPR-trained care provider present. If you plan to bring your child(ren), be sure to indicate this in the <a href="http://bit.do/pghworkshop-rsvp">RSVP form</a>, along with the number of children so that we provide adequate support.
 
 If there are other barriers that may prohibit your attendance, please let us know! It is our goal to make this workshop as accessible as possible.
 
