@@ -21,7 +21,7 @@
 
 ## Workshop overview
 
-This workshop will help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop pariticipants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
+This workshop is intended to help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop pariticipants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
 
 ## How to attend
 1. Reserve your spot by Thursday, August 15th: <a href="http://bit.do/pghworkshop-rsvp">bit.do/pghworkshop-rsvp</a>
