@@ -29,9 +29,7 @@ This workshop is primarily intended for those who do not have a formal backgroun
 
 This workshop is intended for those whose primary income is their craft, **and** for those who craft as a hobby. 
 
-
-**When:**  
-There are two offerings of this workshop. 
+There are two offerings of this workshop:
 
 ### Sunday, August 18th 10:00a-12:30p  
 
@@ -45,11 +43,11 @@ MAC Makerspace
 Pittsburgh, PA  
 15208  
 
-Coffee and snacks will be provided. If you have any food allergies, be sure to indicate so in the RSVP form.
+Coffee and snacks will be provided. **If you have any food allergies**, be sure to indicate so in the RSVP form.
 
 ### Bring other creators!
 
-You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually.** 
+You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually to reserve a spot.** 
 
 <a href="#top">Back to top</a> 
 <div id="study"></div>
