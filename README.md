@@ -6,7 +6,7 @@
 
 <a href="#participants">How to attend</a>  
 
-<a href="#study">This is a research study</a>  
+<a href="#study">This is a research study; $25 compensation</a>  
 
 <a href="#child">Child care</a> 
 
@@ -21,13 +21,11 @@
 
 ## Workshop overview
 
-This workshop is intended to help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop pariticipants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
+This workshop is intended to help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop participants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
 
 ## How to attend
 1. Reserve your spot by Thursday, August 15th: <a href="http://bit.do/pghworkshop-rsvp">bit.do/pghworkshop-rsvp</a>
 2. Look for a confirmation e-mail with important workshop details 
-
-<a href="#top">Back to top</a> 
 
 ### This workshop is for:
 
@@ -37,9 +35,9 @@ This workshop is intended for those whose primary income is their craft, **and**
 
 There are two offerings of this workshop:
 
-### Sunday, August 18th 10:00a-12:30p  
+**Sunday, August 18th 10:00a-12:30p**
 
-### Thursday, August 22nd 6:00p-8:30p
+**Thursday, August 22nd 6:00p-8:30p**
 
 On the RSVP form, indicate your preference: <a href="http://bit.do/pghworkshop-rsvp">http://bit.do/pghworkshop-rsvp</a>
 
@@ -80,7 +78,7 @@ If there are other barriers that may prohibit your attendance, please let us kno
 ## Organizers
 
 
-**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at <a href="etsy.com">Etsy</a>, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) connect with peers online to navigate the many uncertainties that arise in digitally-mediated work. With <a href="https://www.forge.community/">Community Forge</a>, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
+**<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon, and a member of PrototypePGH! Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at <a href="etsy.com">Etsy</a>, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) connect with peers online to navigate the many uncertainties that arise in digitally-mediated work. With <a href="https://www.forge.community/">Community Forge</a>, a co-working space in Wilkinsburg, PA, Yasmine is working to offer training courses on computer literacy and digital labor platforms to strengthen employability within the local community.     
 
 **<a href="http://allieblaising.com/">Allie Blaising</a>** is Communication Studies and Data Science undergraduate at Cal Poly, San Luis Obispo. She studies how technology increasingly mediates work and uses her social science background to design technologies. Over the last two years, she studied the tactics and tools online freelancers use to navigate their work, as well as the unique challenges in these new forms of work. She is also a freelance photographer and Vice President of Outreach of Women in Business at Cal Poly, where she hosts professional and personal development workshops with small business owners and local entrepreneurs. 
 
