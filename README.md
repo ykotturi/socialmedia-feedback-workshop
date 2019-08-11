@@ -81,9 +81,11 @@ If there are other barriers that may prohibit your attendance, please let us kno
 
 **<a href="http://allieblaising.com/">Allie Blaising</a>** is Communication Studies and Data Science undergraduate at Cal Poly, San Luis Obispo. She studies how technology increasingly mediates work and uses her social science background to design technologies. Over the last two years, she studied the tactics and tools online freelancers use to navigate their work, as well as the unique challenges in these new forms of work. She is also a freelance photographer and Vice President of Outreach of Women in Business at Cal Poly, where she hosts professional and personal development workshops with small business owners and local entrepreneurs. 
 
-**<a href="">Jenny Yu</a>**
+**<a href="">Jenny Yu</a>** is an undergraduate student at Carnegie-Mellon studying Electrical and Computer Engineering. 
 
 **<a href="https://sarakingsley.github.io/" target="_blank">Sara Kingsley</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon. Her primary research evaluates competition in online markets and the technology industry. She has worked for the Chief Economist of Microsoft corporation, President Barack Obama at the U.S. Department of Labor, and the U.S. Senate Committee on Health, Education, Labor and Pensions (HELP).
+
+
 
 <a href="#top">Back to top</a> 
 <div id ="advisors"></div>
