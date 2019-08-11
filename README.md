@@ -23,15 +23,17 @@
 
 This workshop is intended to help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop participants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
 
+<div id="participants"></div>
+
 ## How to attend
-1. Reserve your spot by Thursday, August 15th: <a href="http://bit.do/pghworkshop-rsvp">bit.do/pghworkshop-rsvp</a>
+1. Reserve your spot by Friday, August 16th: <a href="http://bit.do/pghworkshop-rsvp">bit.do/pghworkshop-rsvp</a>
 2. Look for a confirmation e-mail with important workshop details 
 
 ### This workshop is for:
 
 This workshop is primarily intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"). However, we welcome those with any background (self-taught, formal training, no training). 
 
-This workshop is intended for those whose primary income is their craft, **and** for those who craft as a hobby. 
+<div id="date"></div>
 
 There are two offerings of this workshop:
 
@@ -51,7 +53,7 @@ Coffee and snacks will be provided. **If you have any food allergies**, be sure 
 
 ### Bring other creators!
 
-You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually to reserve a spot.** 
+You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually to reserve their spot.** 
 
 <a href="#top">Back to top</a> 
 <div id="study"></div>
@@ -59,9 +61,6 @@ You are welcome (and encouraged) to bring your peers and friends - other creator
 ## This is a research study
 
 Please note this workshop is a research study hosted by Carnegie-Mellon University. At the beginning of the workshop, you will be presented with a consent form. You will be compensated $25 for your participation. 
-
-<div id ="participants"></div>
-
 
 
 <div id="child"></div>
