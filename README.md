@@ -4,7 +4,7 @@
 
 <a href="#date">Workshop dates, times and location</a>  
 
-<a href="#participants">How to attend</a>  
+<a href="#participants">How to reserve your spot</a>  
 
 <a href="#study">This is a research study; $25 compensation</a>  
 
@@ -27,7 +27,7 @@ This workshop is primarily intended for those who do not have a formal backgroun
 
 <div id="participants"></div>
 
-## How to attend
+## How to reserve your spot
 1. Reserve your spot by Friday, August 16th: <a href="http://bit.do/pghworkshop-rsvp" target="_blank">bit.do/pghworkshop-rsvp</a>
 2. Look for a confirmation e-mail with important workshop details 
 
