@@ -79,7 +79,7 @@ If there are other barriers that may prohibit your attendance, please let us kno
 
 **<a href="https://scholar.google.com/citations?user=Q6Ju9MwAAAAJ&hl=en" target="_blank">Yasmine Kotturi</a>** is a PhD student in Human-Computer Interaction at Carnegie-Mellon, and a member of PrototypePGH! Yasmine builds software tools to help amateur and professional creators (crafters, designers, makers) receive effective feedback throughout their design process. Last summer at <a href="https://www.etsy.com" target="_blank">Etsy</a>, she researched how thousands of Etsy sellers (based in the U.S., U.K., and India) connect with peers online to navigate the many uncertainties that arise in digitally-mediated work.   
 
-**<a href="http://allieblaising.com/">Allie Blaising</a>** is Communication Studies and Data Science undergraduate at Cal Poly, San Luis Obispo. She studies how technology increasingly mediates work and uses her social science background to design technologies. Over the last two years, she studied the tactics and tools online freelancers use to navigate their work, as well as the unique challenges in these new forms of work. She is also a freelance photographer and Vice President of Outreach of Women in Business at Cal Poly, where she hosts professional and personal development workshops with small business owners and local entrepreneurs. 
+**<a href="http://allieblaising.com/">Allie Blaising</a>** is Communication Studies and Data Science undergraduate at Cal Poly, San Luis Obispo. She studies the tactics and tools online freelancers use to navigate their work, as well as the unique challenges in these new forms of work. She is also a freelance photographer and Vice President of Outreach of Women in Business at Cal Poly, where she hosts professional and personal development workshops with small business owners and local entrepreneurs. 
 
 **<a href="">Jenny Yu</a>** is an undergraduate student at Carnegie-Mellon studying Electrical and Computer Engineering. 
 
@@ -92,7 +92,7 @@ If there are other barriers that may prohibit your attendance, please let us kno
 
 ## Advisors
 
-**<a href="http://www.eringatz.com/" target="_blank">Erin Gatz</a>** is the CEO and co-founder of <a href="https://prototypepgh.com/" target="_blank">Prototype PGH</a>, a feminist makerspace in Pittsburgh PA. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network. (This is a draf, please send me desired bio)
+**<a href="http://www.eringatz.com/" target="_blank">Erin Gatz</a>** is the CEO and co-founder of <a href="https://prototypepgh.com/" target="_blank">Prototype PGH</a>, a feminist makerspace in Pittsburgh PA. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network.
 
 **<a href="">Caleb Ashcraft</a>** is the supervisor of MAC Makerspace, located in Homewood, Pittsburgh PA. (This is a draf, please send me desired bio)
 
