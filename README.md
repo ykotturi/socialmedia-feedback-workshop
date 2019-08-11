@@ -90,9 +90,9 @@ If there are other barriers that may prohibit your attendance, please let us kno
 
 ## Advisors
 
-**<a href="http://www.eringatz.com/" target="_blank">Erin Gatz</a>** is the CEO and co-founder of <a href="https://prototypepgh.com/" target="_blank">Prototype PGH</a>, a feminist makerspace in Pittsburgh PA. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network.
+**<a href="http://www.eringatz.com/" target="_blank">Erin Gatz</a>** is the CEO and co-founder of <a href="https://prototypepgh.com/" target="_blank">Prototype PGH</a>, a feminist makerspace in Pittsburgh PA. She is currently a PhD student and research assistant in Learning Sciences and Policy at the University of Pittsburgh where she studies the effects of the Remake Learning Network. (This is a draf, please send me desired bio)
 
-**<a href="">Caleb Ashcraft</a>** is the supervisor of MAC Makerspace, located in Homewood, Pittsburgh PA.
+**<a href="">Caleb Ashcraft</a>** is the supervisor of MAC Makerspace, located in Homewood, Pittsburgh PA. (This is a draf, please send me desired bio)
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/" target="_blank">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better.
 
