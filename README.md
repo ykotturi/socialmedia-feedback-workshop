@@ -51,7 +51,7 @@ Pittsburgh, PA
 
 Coffee and snacks will be provided. **If you have any food allergies**, be sure to indicate so in the <a href="http://bit.do/pghworkshop-rsvp" target="_blank">RSVP form</a>.
 
-### Bring other creators!
+### Bring friends!
 
 You are welcome (and encouraged) to bring your peers and friends - other creators you know who you currently go to with questions, for feedback, inspiration, and encouragement. **If you invite peers, be sure everyone RSVP's individually to reserve their spot.** 
 
@@ -98,7 +98,7 @@ If there are other barriers that may prohibit your attendance, please let us kno
 
 **<a href="http://www.cs.cmu.edu/~chinmayk/" target="_blank">Chinmay Kulkarni</a>** is an Assistant Professor of Human Computer Interaction at Carnegie-Mellon, where he directs the Expertise@Scale lab. In his research, Chinmay introduces new collaborative computer systems that help people learn and work better.
 
-**<a href="https://www.sarahfox.info/" target="_blank">Sarah E. Fox</a>** is a Postdoctoral Scholar at the University of California, San Diego in the Department of Communication and The Design Lab. Her research focuses on how technological artifacts challenge or propagate social exclusions, by examining existing systems and building alternatives.
+**<a href="https://www.sarahfox.info/" target="_blank">Sarah E. Fox</a>** is a Presidential Postdoctoral Fellow at Carnegie Mellon University in the Human Computer Interaction Institute. Her research focuses on how technological artifacts challenge or propagate social exclusions, by examining existing systems and building alternatives.
 
 <a href="#top">Back to top</a> 
 <div id="question"></div>
