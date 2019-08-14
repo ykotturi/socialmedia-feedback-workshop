@@ -21,7 +21,7 @@
 
 ## Workshop overview
 
-This workshop is intended to help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based worked, where workshop participants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
+This workshop is intended to help **crafters, makers, and product designers** get effective feedback from social media and ultimately grow their small business. Workshop activities will involve a series of individual reflections and group-based work, where workshop participants will be asked to reflect on and share their unique experiences as crafters, designers, makers. Participants will be asked to beta-test software systems we are building, give preliminary feedback, as well as shape future direction of these software systems. 
 
 This workshop is primarily intended for those who do not have a formal background in design or the arts (i.e. "amateur designers"). However, we welcome those with any background (self-taught, formal training, no training). 
 
